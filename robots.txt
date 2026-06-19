@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ssloss68.github.io/i-gameapp-com-cn/sitemap.xml
